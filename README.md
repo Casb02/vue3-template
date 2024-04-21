@@ -1,4 +1,4 @@
-# Vue 3 Template - Persoonlijk template
+# Vue 3 Template - Persoonlijk Template
 
 Een persoonlijke Vue 3 template met wat basis installaties om snel te kunnen starten met een project.
 Voel je vrij om dit template te gebruiken, aan te passen of te verbeteren.
